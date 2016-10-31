@@ -1,0 +1,61 @@
+body{
+	background-color: lightgrey;
+	padding-left: 3%;
+	padding-right: 3%;
+
+}
+
+header{
+	background-color: #EE9917;
+	color: black;
+	margin-bottom: 3%;
+	height: 70px;
+}
+
+#caja{
+	background-color: #5D4E4E;
+	padding: 1%;
+}
+textarea {
+    height: 50px;
+    width: 210px;
+}
+footer{
+	background-color: lightgrey;
+	color: white;
+	margin-top: 400px;
+}
+p{
+	color: #000;
+	font-family: Verdana;
+	padding-left: 1%;
+}
+.label-color{
+	background-color: black;
+	color: white;
+	font-size: 15px;
+}
+
+input,h2{margin: 1.5%;}
+
+button{
+	margin:2%;
+	padding:2%;
+} 
+
+h4{
+	background-color: darkgrey;
+	text-align: center;
+}
+div{
+	margin-top:1%;
+	padding:1%;
+	border-radius: 15px;
+}
+#otraCaja{
+	background-color:  #EE9917;
+	margin: 2%;
+	padding: 0%;
+};
+
+
